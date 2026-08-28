@@ -1,6 +1,0 @@
-{
-  "name": "My Dream Trip",
-  "description": "A Korean middle-school classroom web application for interactive travel presentation planning, sentence-level revision, and listening quizzes.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
